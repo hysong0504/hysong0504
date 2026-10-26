@@ -7,6 +7,7 @@
 ### 🗂️ My Mini Gallery
 
 | 프로젝트명 | 한 줄 소개 | 사용 언어 | 링크 |
+| :--- | :--- | :---: | :---: |
 | 드래곤빌리지3 레이드 매크로 | OpenCV와 ADB를 활용한 모바일 게임 레이드 자동화 프로그램 | Python | [코드 보기](https://github.com/hysong0504/dv3-raid-macro) |
 
 
