@@ -16,7 +16,6 @@
 
 ### 📬 Contact
 - **Email:** hysong0504@gmail.com
-- **Blog:** 
 
 <br>
 
